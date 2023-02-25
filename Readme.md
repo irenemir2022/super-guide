@@ -9,7 +9,11 @@
 
     a=2; b=10 -> max=10
 
-    a=-9; b=-3 -> max=-3 | [код](Seminar/Seminar001/Ex001/Program.cs)
+    a=-9; b=-3 -> max=-3 |
+    
+     [код](Seminar/Seminar001/Ex001/Program.cs) 
+
+    [блок-схема](Seminar/Seminar001/Ex001/diagram.drawio.png)
 
     Ex002
 
