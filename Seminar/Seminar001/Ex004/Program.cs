@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Задача 4");
+Console.WriteLine("Введите число: ");
+int N = Convert.ToInt32(Console.Readline());
+int Startnumber = 1;
+
+  while (Startnumber <= N);
+    {
+      if (Startnumber %2 == 0)
+      Console.Write(N + ",");
+      Startnumber++;
+    }
+
