@@ -13,7 +13,7 @@
     
      [код](Seminar/Seminar001/Ex001/Program.cs) 
 
-    [блок-схема](Seminar/Seminar001/Ex001/diagram.drawio.png)
+    ![блок-схема](Seminar/Seminar001/Ex001/diagram.drawio.png)
 
     Ex002
 
