@@ -16,7 +16,7 @@
     
      [код](Seminar/Seminar001/Ex001/Program.cs) 
 
-    ![блок-схема](Seminar/Seminar001/Ex001/diagram.drawio.png)
+    [блок-схема](Seminar/Seminar001/Ex001/diagram.drawio.png)
 
     Ex002
     ### Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
@@ -31,7 +31,7 @@
 
     [код](Seminar/Seminar001/Ex002/Program.cs)
 
-    ![блок-схема](Seminar/Seminar001/Ex002/diagram.drawio.png)
+    [блок-схема](Seminar/Seminar001/Ex002/diagram.drawio.png)
     
 
 
@@ -48,7 +48,7 @@
 
     [код](Seminar/Seminar001/Ex003/Program.cs)
 
-    ![блок-схема](Seminar/Seminar001/Ex003/diagram.drawio.png)
+    [блок-схема](Seminar/Seminar001/Ex003/diagram.drawio.png)
 
     
 
@@ -63,7 +63,7 @@
 
     [код](Seminar/Seminar001/Ex004/Program.cs)
 
-    ![блок-схема](Seminar/Seminar001/Ex004/diagram.drawio.png)
+    [блок-схема](Seminar/Seminar001/Ex004/diagram.drawio.png)
 
     
 
