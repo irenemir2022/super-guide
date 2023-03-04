@@ -1,3 +1,4 @@
+
  - Homework
  - Lecture
  - Seminar
@@ -96,6 +97,21 @@
     [код](Seminar/Seminar002/Ex002/Program.cs)
 
     [блок-схема](Seminar/Seminar002/Ex002/diagram.drawio.png)
+
+    Ex003
+    ### Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+    6->да
+
+    7->да
+
+    1->нет
+
+    |
+
+    [код](Seminar/Seminar002/Ex003/Program.cs)
+
+    [блок-схема](Seminar/Seminar002/Ex003/diagram.drawio.png)
+    
     
 
     
