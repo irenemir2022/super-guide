@@ -81,5 +81,10 @@
 
     [код](Seminar/Seminar002/Ex001/Program.cs)
 
+    [блок-схема](Seminar/Seminar002/Ex001/diagram.drawio.png)
+    
+
+
+
 
    - Seminar003
