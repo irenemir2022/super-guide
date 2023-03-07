@@ -152,3 +152,20 @@
    [блок-схема](Seminar/Seminar003/Ex002/diagram.drawio.png)
 
 
+   Ex003
+
+   ### Напишите метод(ы), который принимает на вход число N и выдает таблицу кубов чисел от 1 до N.
+
+   3-> 1, 8, 27
+
+   5-> 1, 8, 27, 64, 125.
+
+   |
+
+   [код](Seminar/Seminar003/Ex003/Program.cs)
+
+   [блок-схема](Seminar/Seminar003/Ex003/diagram.drawio.png)
+
+   
+
+
