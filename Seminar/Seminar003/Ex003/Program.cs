@@ -7,7 +7,7 @@ for (int i = 1; i <= number; i++)
 
 
 
-// Функция ввода сообщения
+// метод
 int ReadInt(string message)
 {
     Console.Write(message);
