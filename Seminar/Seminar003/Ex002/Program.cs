@@ -13,7 +13,7 @@ double length = Math.Sqrt(A * A + B * B + C * C);
 Console.WriteLine($"Длина отрезка {length}");
 
 
-int ReadInt(string message) //функция ввода сообщения
+int ReadInt(string message) //метод
 {
     Console.Write(message);
     return Convert.ToInt32(Console.ReadLine());
