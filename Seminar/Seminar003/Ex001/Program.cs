@@ -1,8 +1,8 @@
 ﻿Console.WriteLine("Введите число: ");
 string number = Console.ReadLine();
-int len = number.Length;
+int length = number.Length;
 
-if (len == 5)
+if (length == 5)
 {
     if (number[0] == number[4] && number[1] == number[3])
     {
