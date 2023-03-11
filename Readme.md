@@ -166,6 +166,24 @@
 
    [блок-схема](Seminar/Seminar003/Ex003/diagram.drawio.png)
 
+
+   - Seminar004
+
+   Ex001
+
+   ### Напишите цикл, который принимает на вход два числа (A, B) и возводит число A в натуральную степень B.
+
+   3, 5-> 243(3^5)
+
+   2, 4-> 16
+
+   |
+
+   [код](Seminar/Seminar004/Ex001/Program.cs)
+
+   [блок-схема](Seminar/Seminar004/Ex001/diagram.drawio.png)
+   
+
    
 
 
