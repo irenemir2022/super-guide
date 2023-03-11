@@ -184,6 +184,24 @@
    [блок-схема](Seminar/Seminar004/Ex001/diagram.drawio.png)
    
 
+   Ex002
+
+   ### Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+
+   452->11
+
+   82->10
+
+   9012->12
+
+   |
+
+   [код](Seminar/Seminar004/Ex002/Program.cs)
+
+   [блок-схема](Seminar/Seminar004/Ex002/diagram.drawio.png)
+
+   
+
    
 
 
