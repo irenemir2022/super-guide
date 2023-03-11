@@ -200,6 +200,19 @@
 
    [блок-схема](Seminar/Seminar004/Ex002/diagram.drawio.png)
 
+   Ex003
+
+   ### Напишите программу, котрая задаёт массив из 8 элементов и выводит их на экран.
+
+   1,2,5,7,19->"[" 1, 2, 5, 7, 19 "]"
+
+   |
+
+   [код](Seminar/Seminar004/Ex003/Program.cs)
+
+   [блок-схема](Seminar/Seminar004/Ex003/diagram.drawio.png)
+   
+
    
 
    
